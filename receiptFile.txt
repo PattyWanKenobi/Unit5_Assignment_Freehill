@@ -1,0 +1,5 @@
+Receipt
+Subtotal: 18
+Tax: 1.5
+Tip: 13
+Total Due: 32
